@@ -20,7 +20,7 @@ namespace DataStructuresApp.Heap
 
             while (!minHeap.IsHeapEmpty())
             {
-                Console.WriteLine(minHeap.RemoveFromHeap());
+                Console.Write(minHeap.RemoveFromHeap().ToString() + ' ');
             }
             // 10 20 25 17 34 15
         }

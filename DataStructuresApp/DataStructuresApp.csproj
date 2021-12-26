@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="LinkedList\" />
+    <Folder Include="NewFolder\" />
   </ItemGroup>
 
 </Project>
