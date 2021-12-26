@@ -5,11 +5,12 @@ using DataStructuresApp.Heap;
 using DataStructuresApp.LinkedList;
 using DataStructuresApp.Queue;
 using DataStructuresApp.Stack;
+using DataStructuresApp.Trie;
 
-Console.WriteLine("Hello, World!");
 
 // MyMiniHeapUsage.Run();
 // MyLinkedListUsage.Run();
 // MyQueueUsage.Run();
 // MyStackUsage.Run();
-MyBinarySearchTreeUsage.Run();
+// MyBinarySearchTreeUsage.Run();
+MyTrieUsage.Run();
