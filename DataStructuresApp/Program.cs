@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using DataStructuresApp;
+using DataStructuresApp.Alghorithms;
 using DataStructuresApp.BinarySearchTree;
 using DataStructuresApp.HashTable;
 using DataStructuresApp.Heap;
@@ -15,4 +16,5 @@ using DataStructuresApp.Trie;
 // MyStackUsage.Run();
 // MyBinarySearchTreeUsage.Run();
 // MyTrieUsage.Run();
-MyHashTableUsage.Run();
+// MyHashTableUsage.Run();
+MyQuicksortUsage.Run();
