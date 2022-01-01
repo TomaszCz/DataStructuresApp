@@ -24,7 +24,7 @@ namespace DataStructuresApp.Alghorithms
             {
                 return;
             }
-            int middle = (leftStart + rightEnd) / 2;
+            int middle = leftStart + (rightEnd - leftStart) / 2; // (leftStart + rightEnd) / 2; is incorrect caues of overflow 
             Mergesort(array, temp, leftStart, middle);
             Mergesort(array, temp, middle + 1, rightEnd);
 
