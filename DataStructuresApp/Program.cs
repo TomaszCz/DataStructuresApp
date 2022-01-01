@@ -17,4 +17,5 @@ using DataStructuresApp.Trie;
 // MyBinarySearchTreeUsage.Run();
 // MyTrieUsage.Run();
 // MyHashTableUsage.Run();
-MyQuicksortUsage.Run();
+// MyQuicksortUsage.Run();
+MyMergesortUsage.Run();

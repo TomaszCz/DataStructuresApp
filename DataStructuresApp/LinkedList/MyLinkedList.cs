@@ -76,5 +76,10 @@ namespace DataStructuresApp.LinkedList
         {
             return head == null;
         }
+
+        public void Reverse()
+        {
+            // TODO :)
+        }
     }
 }
