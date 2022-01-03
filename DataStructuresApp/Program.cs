@@ -11,11 +11,11 @@ using DataStructuresApp.Trie;
 
 
 // MyMiniHeapUsage.Run();
-// MyLinkedListUsage.Run();
+MyLinkedListUsage.Run();
 // MyQueueUsage.Run();
 // MyStackUsage.Run();
 // MyBinarySearchTreeUsage.Run();
 // MyTrieUsage.Run();
 // MyHashTableUsage.Run();
 // MyQuicksortUsage.Run();
-MyMergesortUsage.Run();
+// MyMergesortUsage.Run();
