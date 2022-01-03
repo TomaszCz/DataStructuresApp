@@ -41,7 +41,7 @@ namespace DataStructuresApp
             return GetParentIndex(index) > size;
         }
 
-        private void ensureExtraCapacity()
+        private void EnsureExtraCapacity()
         {
             if (size == capacity)
             {
@@ -75,7 +75,7 @@ namespace DataStructuresApp
 
         public void AddToHeap(int element)
         {
-            ensureExtraCapacity();
+            EnsureExtraCapacity();
 
             this.elements[this.size] = element;
             this.size++;
